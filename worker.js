@@ -3,9 +3,9 @@ var authConfig = {
 	"root_pass": "", // Root Password
 	"version": "2.0", // Site Version
 	"theme": "material", // material  classic 
-    "client_id": "202264815644.apps.googleusercontent.com", // Google Client ID
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // Google Client Secret
-	"refresh_token": "", // Refresh token    "root": "root" // Root directory
+    "client_id": "788801544803-pht4rm5ofjr75g4rvq2t210tujr94ptq.apps.googleusercontent.com", // Google Client ID
+    "client_secret": "Nh5BaQoJil-o_Qg3_ZJrxL8b", // Google Client Secret
+	"refresh_token": "1//04ox5uMjkH_ruCgYIARAAGAQSNwF-L9IrBdyGEogmdvAZ5Nv-nosotVxrB9mKvEnCDKO2mbmjerXm1yhWfB_7n7iT7FNwoLvS-Ns", // Refresh token    "root": "root" // Root directory
 	"root": "root" // Root directory
 };
 
